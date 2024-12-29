@@ -1,1 +1,10 @@
-
+firstly intialize the git the working directory command:"git init"
+git status- it tells about the files which are in the staging area and are in non staging area so if a file is in red color that the file is in the non staging area
+so basically any file in working can be in two stages
+firstly in the non staging area which means the file is in working directory but not in the staging area 
+another is in the staging area
+so if a file is in staging area then it is ready to commit
+git add "file name" : it adds the file to the staging area
+git add . : this add all files in the working directory to the staging area 
+git commit -m "message" : This one is used to commit the changes in the file , in message we write the changes made to the file
+git log : it tells about the actions made on the file
