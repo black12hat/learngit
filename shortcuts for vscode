@@ -1,0 +1,32 @@
+
+Ctrl+Shift+R (Refactor/Rename in most IDEs)
+Alt+Shift+M (Extract Method in Eclipse/IntelliJ)
+Ctrl+Shift+O (Organize Imports in Java)
+Ctrl+Alt+L (Reformat Code in WebStorm/PyCharm)
+Ctrl+Shift+V (Show Recent Clipboard Contents)
+
+Multi-Cursor Editing:
+6. Alt+Click (Add Multiple Cursors)
+7. Ctrl+Alt+↑/↓ (Add Cursor Above/Below)
+8. Ctrl+Shift+L (Select All Occurrences)
+Navigation Shortcuts:
+9. Ctrl+G (Go to Line)
+10. Ctrl+[/] (Jump to Matching Bracket)
+11. Ctrl+U (Go to Method Definition)
+12. Ctrl+Alt+B (Go to Implementation)
+Debugging Shortcuts:
+13. F9 (Toggle Breakpoint)
+14. F7 (Step Into)
+15. F8 (Step Over)
+16. Shift+F8 (Step Out)
+Advanced Terminal/Command Line:
+17. Ctrl+U (Clear Line)
+18. Ctrl+K (Clear Screen)
+19. Alt+. (Insert Last Argument of Previous Command)
+20. Ctrl+R (Reverse Command Search)
+Miscellaneous Power User Shortcuts:
+21. Win+Shift+S (Screen Snip in Windows)
+22. Ctrl+Shift+T (Reopen Closed Tab in Most Browsers)
+23. Alt+Space (Window Menu)
+24. Ctrl+Alt+T (Open Terminal in many IDEs)
+25. Ctrl+` (Switch Between Code/Terminal in VS Code)
