@@ -30,3 +30,6 @@ Miscellaneous Power User Shortcuts:
 23. Alt+Space (Window Menu)
 24. Ctrl+Alt+T (Open Terminal in many IDEs)
 25. Ctrl+` (Switch Between Code/Terminal in VS Code)
+shortcuts
+alt+ upper arrow - moves the selected content to above lines ;how to do: hold the alt key and click upper arrow many times you want to move up the content
+ctrl+tab-opens the terminal
